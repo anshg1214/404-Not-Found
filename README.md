@@ -67,5 +67,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@your-username](https://{github.com/anshg1214})
-- Twitter [@your-twitter](https://{twitter.com/anshgoyal31})
+- GitHub [@anshg1214](https://{github.com/anshg1214})
+- Twitter [@anshgoyal31](https://{twitter.com/anshgoyal31})
